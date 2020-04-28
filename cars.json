@@ -1,0 +1,2238 @@
+[
+  {
+    "brand": "BMW",
+    "price": 39261,
+    "mileage": 184696,
+    "engine": {
+      "type": "DIESEL",
+      "power": 3.7
+    },
+    "carBody": {
+      "colour": "YELLOW_BLACK",
+      "bodyType": "SEDAN",
+      "components": [
+        "LEATHER"
+      ]
+    },
+    "wheel": {
+      "brand": "YOKOHAMA",
+      "size": 20,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "LAMBORGHINI",
+    "price": 17843,
+    "mileage": 34547,
+    "engine": {
+      "type": "LPG",
+      "power": 3.2
+    },
+    "carBody": {
+      "colour": "SILVER",
+      "bodyType": "COMBI",
+      "components": [
+        "BACK_DOORS",
+        "ELECTRIC_MIRRORS",
+        "BACK_DOORS",
+        "BACK_DOORS",
+        "AUDIO"
+      ]
+    },
+    "wheel": {
+      "brand": "CONTINENTAL",
+      "size": 19,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "NISSAN",
+    "price": 720,
+    "mileage": 116466,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 1.9
+    },
+    "carBody": {
+      "colour": "RED",
+      "bodyType": "SEDAN",
+      "components": [
+        "AIR_CONDITIONING",
+        "FOG_LIGHTS",
+        "AIR_CONDITIONING",
+        "ELECTRIC_WINDOWS",
+        "ELECTRIC_WINDOWS",
+        "AIR_CONDITIONING"
+      ]
+    },
+    "wheel": {
+      "brand": "DEBICA",
+      "size": 19,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "Seat",
+    "price": 675787,
+    "mileage": 160498,
+    "engine": {
+      "type": "LPG",
+      "power": 3.5
+    },
+    "carBody": {
+      "colour": "GOLD",
+      "bodyType": "HATCHBACK",
+      "components": []
+    },
+    "wheel": {
+      "brand": "DUNLOP",
+      "size": 16,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "BMW",
+    "price": 663589,
+    "mileage": 123794,
+    "engine": {
+      "type": "LPG",
+      "power": 3.1
+    },
+    "carBody": {
+      "colour": "RED",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "AUDIO",
+        "AIR_CONDITIONING",
+        "AIR_CONDITIONING",
+        "ELECTRIC_WINDOWS"
+      ]
+    },
+    "wheel": {
+      "brand": "CONTINENTAL",
+      "size": 15,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "NISSAN",
+    "price": 347254,
+    "mileage": 71521,
+    "engine": {
+      "type": "DIESEL",
+      "power": 4.7
+    },
+    "carBody": {
+      "colour": "WHITE",
+      "bodyType": "SEDAN",
+      "components": [
+        "ELECTRIC_WINDOWS",
+        "FOG_LIGHTS",
+        "FOG_LIGHTS",
+        "BACK_DOORS"
+      ]
+    },
+    "wheel": {
+      "brand": "DEBICA",
+      "size": 16,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "Fiat",
+    "price": 555627,
+    "mileage": 80046,
+    "engine": {
+      "type": "DIESEL",
+      "power": 1.7
+    },
+    "carBody": {
+      "colour": "YELLOW_BLACK",
+      "bodyType": "COMBI",
+      "components": [
+        "FOG_LIGHTS",
+        "FOG_LIGHTS",
+        "ELECTRIC_WINDOWS"
+      ]
+    },
+    "wheel": {
+      "brand": "CONTINENTAL",
+      "size": 15,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "NISSAN",
+    "price": 592174,
+    "mileage": 95937,
+    "engine": {
+      "type": "LPG",
+      "power": 2.4
+    },
+    "carBody": {
+      "colour": "YELLOW_BLACK",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "AUDIO",
+        "GPS",
+        "LEATHER"
+      ]
+    },
+    "wheel": {
+      "brand": "DEBICA",
+      "size": 17,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "MERCEDES",
+    "price": 394230,
+    "mileage": 157539,
+    "engine": {
+      "type": "DIESEL",
+      "power": 5.6
+    },
+    "carBody": {
+      "colour": "WHITE",
+      "bodyType": "SEDAN",
+      "components": [
+        "GPS",
+        "FOG_LIGHTS",
+        "GPS",
+        "AUDIO",
+        "LEATHER"
+      ]
+    },
+    "wheel": {
+      "brand": "YOKOHAMA",
+      "size": 17,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "NISSAN",
+    "price": 191931,
+    "mileage": 96045,
+    "engine": {
+      "type": "LPG",
+      "power": 4.2
+    },
+    "carBody": {
+      "colour": "BLACK",
+      "bodyType": "SEDAN",
+      "components": [
+        "LEATHER",
+        "BACK_DOORS",
+        "BACK_DOORS",
+        "GPS"
+      ]
+    },
+    "wheel": {
+      "brand": "CONTINENTAL",
+      "size": 16,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "FERRARI",
+    "price": 108893,
+    "mileage": 23102,
+    "engine": {
+      "type": "LPG",
+      "power": 3.5
+    },
+    "carBody": {
+      "colour": "PURPLE",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "GPS",
+        "AIR_CONDITIONING",
+        "AUDIO",
+        "AUDIO"
+      ]
+    },
+    "wheel": {
+      "brand": "YOKOHAMA",
+      "size": 14,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "Polonez",
+    "price": 212429,
+    "mileage": 18274,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 4.9
+    },
+    "carBody": {
+      "colour": "WHITE_GREEN",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "BACK_DOORS"
+      ]
+    },
+    "wheel": {
+      "brand": "YOKOHAMA",
+      "size": 14,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "FERRARI",
+    "price": 649827,
+    "mileage": 109654,
+    "engine": {
+      "type": "CNG",
+      "power": 5.2
+    },
+    "carBody": {
+      "colour": "WHITE_GREEN",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "ELECTRIC_WINDOWS",
+        "FOG_LIGHTS"
+      ]
+    },
+    "wheel": {
+      "brand": "BRIDGESTONE",
+      "size": 19,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "FERRARI",
+    "price": 328797,
+    "mileage": 203730,
+    "engine": {
+      "type": "DIESEL",
+      "power": 4.5
+    },
+    "carBody": {
+      "colour": "BLACK",
+      "bodyType": "SEDAN",
+      "components": [
+        "FOG_LIGHTS",
+        "FOG_LIGHTS",
+        "AIR_CONDITIONING",
+        "GPS"
+      ]
+    },
+    "wheel": {
+      "brand": "PIRELLI",
+      "size": 17,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "Fiat",
+    "price": 354033,
+    "mileage": 123738,
+    "engine": {
+      "type": "DIESEL",
+      "power": 4.0
+    },
+    "carBody": {
+      "colour": "WHITE",
+      "bodyType": "COMBI",
+      "components": [
+        "AUDIO",
+        "AIR_CONDITIONING"
+      ]
+    },
+    "wheel": {
+      "brand": "BRIDGESTONE",
+      "size": 14,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "SKODA",
+    "price": 579099,
+    "mileage": 72837,
+    "engine": {
+      "type": "LPG",
+      "power": 2.8
+    },
+    "carBody": {
+      "colour": "PURPLE",
+      "bodyType": "COMBI",
+      "components": [
+        "AIR_CONDITIONING",
+        "LEATHER",
+        "AIR_CONDITIONING",
+        "AUDIO"
+      ]
+    },
+    "wheel": {
+      "brand": "BRIDGESTONE",
+      "size": 16,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "BENTLEY",
+    "price": 601235,
+    "mileage": 33179,
+    "engine": {
+      "type": "DIESEL",
+      "power": 3.4
+    },
+    "carBody": {
+      "colour": "BLUE",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "GPS",
+        "ELECTRIC_WINDOWS",
+        "FOG_LIGHTS",
+        "AUDIO",
+        "ELECTRIC_MIRRORS"
+      ]
+    },
+    "wheel": {
+      "brand": "BRIDGESTONE",
+      "size": 15,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "Fiat",
+    "price": 426206,
+    "mileage": 133864,
+    "engine": {
+      "type": "DIESEL",
+      "power": 2.2
+    },
+    "carBody": {
+      "colour": "GREEN",
+      "bodyType": "SEDAN",
+      "components": [
+        "GPS"
+      ]
+    },
+    "wheel": {
+      "brand": "PIRELLI",
+      "size": 19,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "TOYOTA",
+    "price": 267019,
+    "mileage": 200239,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 4.1
+    },
+    "carBody": {
+      "colour": "RED",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "ALARM",
+        "FOG_LIGHTS",
+        "LEATHER",
+        "AUDIO"
+      ]
+    },
+    "wheel": {
+      "brand": "DUNLOP",
+      "size": 17,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "TOYOTA",
+    "price": 239491,
+    "mileage": 76909,
+    "engine": {
+      "type": "DIESEL",
+      "power": 5.6
+    },
+    "carBody": {
+      "colour": "SILVER",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "LEATHER",
+        "GPS",
+        "AUDIO",
+        "AUDIO"
+      ]
+    },
+    "wheel": {
+      "brand": "BRIDGESTONE",
+      "size": 17,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "CHEVROLET",
+    "price": 28690,
+    "mileage": 50023,
+    "engine": {
+      "type": "LPG",
+      "power": 4.2
+    },
+    "carBody": {
+      "colour": "GOLD",
+      "bodyType": "COMBI",
+      "components": []
+    },
+    "wheel": {
+      "brand": "CONTINENTAL",
+      "size": 17,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "LAMBORGHINI",
+    "price": 325292,
+    "mileage": 67005,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 3.5
+    },
+    "carBody": {
+      "colour": "BLUE",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "FOG_LIGHTS",
+        "AIR_CONDITIONING",
+        "AIR_CONDITIONING",
+        "ELECTRIC_MIRRORS"
+      ]
+    },
+    "wheel": {
+      "brand": "DUNLOP",
+      "size": 14,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "NISSAN",
+    "price": 210064,
+    "mileage": 134062,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 1.7
+    },
+    "carBody": {
+      "colour": "BLACK",
+      "bodyType": "SEDAN",
+      "components": [
+        "FOG_LIGHTS",
+        "GPS",
+        "ELECTRIC_MIRRORS"
+      ]
+    },
+    "wheel": {
+      "brand": "BRIDGESTONE",
+      "size": 17,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "MERCEDES",
+    "price": 496204,
+    "mileage": 34429,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 2.0
+    },
+    "carBody": {
+      "colour": "BLACK",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "LEATHER"
+      ]
+    },
+    "wheel": {
+      "brand": "DEBICA",
+      "size": 17,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "FERRARI",
+    "price": 367691,
+    "mileage": 40598,
+    "engine": {
+      "type": "DIESEL",
+      "power": 3.6
+    },
+    "carBody": {
+      "colour": "RED",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "GPS",
+        "ELECTRIC_MIRRORS"
+      ]
+    },
+    "wheel": {
+      "brand": "BRIDGESTONE",
+      "size": 16,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "BMW",
+    "price": 362735,
+    "mileage": 63219,
+    "engine": {
+      "type": "DIESEL",
+      "power": 3.1
+    },
+    "carBody": {
+      "colour": "WHITE_GREEN",
+      "bodyType": "COMBI",
+      "components": [
+        "AIR_CONDITIONING",
+        "LEATHER",
+        "FOG_LIGHTS"
+      ]
+    },
+    "wheel": {
+      "brand": "YOKOHAMA",
+      "size": 20,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "BMW",
+    "price": 644038,
+    "mileage": 51649,
+    "engine": {
+      "type": "CNG",
+      "power": 4.6
+    },
+    "carBody": {
+      "colour": "RED",
+      "bodyType": "SEDAN",
+      "components": [
+        "AUDIO"
+      ]
+    },
+    "wheel": {
+      "brand": "PIRELLI",
+      "size": 19,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "Fiat",
+    "price": 658913,
+    "mileage": 87058,
+    "engine": {
+      "type": "LPG",
+      "power": 3.1
+    },
+    "carBody": {
+      "colour": "GOLD",
+      "bodyType": "COMBI",
+      "components": [
+        "ELECTRIC_MIRRORS"
+      ]
+    },
+    "wheel": {
+      "brand": "PIRELLI",
+      "size": 19,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "BENTLEY",
+    "price": 142040,
+    "mileage": 147909,
+    "engine": {
+      "type": "LPG",
+      "power": 3.7
+    },
+    "carBody": {
+      "colour": "BLUE",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "GPS",
+        "AIR_CONDITIONING"
+      ]
+    },
+    "wheel": {
+      "brand": "PIRELLI",
+      "size": 15,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "price": 293833,
+    "mileage": 205456,
+    "engine": {
+      "type": "CNG",
+      "power": 4.1
+    },
+    "carBody": {
+      "colour": "SILVER",
+      "bodyType": "COMBI",
+      "components": [
+        "BACK_DOORS",
+        "LEATHER",
+        "AIR_CONDITIONING",
+        "AUDIO"
+      ]
+    },
+    "wheel": {
+      "brand": "PIRELLI",
+      "size": 14,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "Seat",
+    "price": 155720,
+    "mileage": 74247,
+    "engine": {
+      "type": "CNG",
+      "power": 5.6
+    },
+    "carBody": {
+      "colour": "WHITE_GREEN",
+      "bodyType": "COMBI",
+      "components": [
+        "AIR_CONDITIONING",
+        "ELECTRIC_WINDOWS",
+        "AUDIO",
+        "LEATHER",
+        "ELECTRIC_WINDOWS",
+        "ELECTRIC_WINDOWS",
+        "AIR_CONDITIONING"
+      ]
+    },
+    "wheel": {
+      "brand": "CONTINENTAL",
+      "size": 18,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "Seat",
+    "price": 679109,
+    "mileage": 179928,
+    "engine": {
+      "type": "DIESEL",
+      "power": 3.8
+    },
+    "carBody": {
+      "colour": "WHITE_GREEN",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "ELECTRIC_MIRRORS"
+      ]
+    },
+    "wheel": {
+      "brand": "YOKOHAMA",
+      "size": 18,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "MERCEDES",
+    "price": 642205,
+    "mileage": 132797,
+    "engine": {
+      "type": "DIESEL",
+      "power": 5.4
+    },
+    "carBody": {
+      "colour": "PURPLE",
+      "bodyType": "SEDAN",
+      "components": []
+    },
+    "wheel": {
+      "brand": "APOLLO",
+      "size": 17,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "NISSAN",
+    "price": 544169,
+    "mileage": 195882,
+    "engine": {
+      "type": "CNG",
+      "power": 5.0
+    },
+    "carBody": {
+      "colour": "GOLD",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "ALARM"
+      ]
+    },
+    "wheel": {
+      "brand": "DUNLOP",
+      "size": 20,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "CHEVROLET",
+    "price": 223193,
+    "mileage": 149133,
+    "engine": {
+      "type": "CNG",
+      "power": 5.5
+    },
+    "carBody": {
+      "colour": "WHITE_GREEN",
+      "bodyType": "SEDAN",
+      "components": [
+        "BACK_DOORS",
+        "ELECTRIC_WINDOWS",
+        "ALARM"
+      ]
+    },
+    "wheel": {
+      "brand": "CONTINENTAL",
+      "size": 14,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "price": 537386,
+    "mileage": 47954,
+    "engine": {
+      "type": "CNG",
+      "power": 1.6
+    },
+    "carBody": {
+      "colour": "RED",
+      "bodyType": "HATCHBACK",
+      "components": []
+    },
+    "wheel": {
+      "brand": "YOKOHAMA",
+      "size": 19,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "Fiat",
+    "price": 163879,
+    "mileage": 182561,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 4.9
+    },
+    "carBody": {
+      "colour": "YELLOW_BLACK",
+      "bodyType": "COMBI",
+      "components": [
+        "AUDIO",
+        "FOG_LIGHTS"
+      ]
+    },
+    "wheel": {
+      "brand": "CONTINENTAL",
+      "size": 16,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "price": 388886,
+    "mileage": 159365,
+    "engine": {
+      "type": "CNG",
+      "power": 5.0
+    },
+    "carBody": {
+      "colour": "BLUE",
+      "bodyType": "COMBI",
+      "components": [
+        "AIR_CONDITIONING",
+        "ELECTRIC_MIRRORS",
+        "LEATHER",
+        "GPS",
+        "ELECTRIC_MIRRORS"
+      ]
+    },
+    "wheel": {
+      "brand": "DUNLOP",
+      "size": 14,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "TOYOTA",
+    "price": 350837,
+    "mileage": 36885,
+    "engine": {
+      "type": "DIESEL",
+      "power": 4.4
+    },
+    "carBody": {
+      "colour": "YELLOW_BLACK",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "AUDIO",
+        "AUDIO",
+        "ELECTRIC_WINDOWS"
+      ]
+    },
+    "wheel": {
+      "brand": "CONTINENTAL",
+      "size": 19,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "NISSAN",
+    "price": 597953,
+    "mileage": 40637,
+    "engine": {
+      "type": "CNG",
+      "power": 4.7
+    },
+    "carBody": {
+      "colour": "YELLOW_BLACK",
+      "bodyType": "SEDAN",
+      "components": [
+        "LEATHER"
+      ]
+    },
+    "wheel": {
+      "brand": "YOKOHAMA",
+      "size": 18,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "LAMBORGHINI",
+    "price": 580662,
+    "mileage": 81402,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 4.3
+    },
+    "carBody": {
+      "colour": "WHITE",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "GPS",
+        "BACK_DOORS"
+      ]
+    },
+    "wheel": {
+      "brand": "BRIDGESTONE",
+      "size": 14,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "BMW",
+    "price": 361839,
+    "mileage": 109888,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 5.1
+    },
+    "carBody": {
+      "colour": "YELLOW_BLACK",
+      "bodyType": "SEDAN",
+      "components": []
+    },
+    "wheel": {
+      "brand": "DEBICA",
+      "size": 18,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "Polonez",
+    "price": 460097,
+    "mileage": 79340,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 1.9
+    },
+    "carBody": {
+      "colour": "PURPLE",
+      "bodyType": "COMBI",
+      "components": [
+        "AIR_CONDITIONING"
+      ]
+    },
+    "wheel": {
+      "brand": "YOKOHAMA",
+      "size": 18,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "NISSAN",
+    "price": 545288,
+    "mileage": 129004,
+    "engine": {
+      "type": "LPG",
+      "power": 5.3
+    },
+    "carBody": {
+      "colour": "GREEN",
+      "bodyType": "COMBI",
+      "components": []
+    },
+    "wheel": {
+      "brand": "DEBICA",
+      "size": 19,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "LAMBORGHINI",
+    "price": 582725,
+    "mileage": 126295,
+    "engine": {
+      "type": "LPG",
+      "power": 5.4
+    },
+    "carBody": {
+      "colour": "WHITE",
+      "bodyType": "SEDAN",
+      "components": [
+        "ELECTRIC_MIRRORS",
+        "GPS",
+        "BACK_DOORS",
+        "LEATHER"
+      ]
+    },
+    "wheel": {
+      "brand": "PIRELLI",
+      "size": 14,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "LAMBORGHINI",
+    "price": 220637,
+    "mileage": 115929,
+    "engine": {
+      "type": "CNG",
+      "power": 4.3
+    },
+    "carBody": {
+      "colour": "PURPLE",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "LEATHER",
+        "ELECTRIC_WINDOWS",
+        "ELECTRIC_MIRRORS"
+      ]
+    },
+    "wheel": {
+      "brand": "CONTINENTAL",
+      "size": 14,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "BMW",
+    "price": 309664,
+    "mileage": 4255,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 6.0
+    },
+    "carBody": {
+      "colour": "YELLOW_BLACK",
+      "bodyType": "SEDAN",
+      "components": [
+        "ELECTRIC_WINDOWS",
+        "LEATHER",
+        "ELECTRIC_MIRRORS"
+      ]
+    },
+    "wheel": {
+      "brand": "YOKOHAMA",
+      "size": 20,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "FERRARI",
+    "price": 315948,
+    "mileage": 68339,
+    "engine": {
+      "type": "CNG",
+      "power": 2.5
+    },
+    "carBody": {
+      "colour": "BLACK",
+      "bodyType": "SEDAN",
+      "components": [
+        "AIR_CONDITIONING",
+        "LEATHER",
+        "BACK_DOORS"
+      ]
+    },
+    "wheel": {
+      "brand": "PIRELLI",
+      "size": 18,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "LAMBORGHINI",
+    "price": 441886,
+    "mileage": 73524,
+    "engine": {
+      "type": "CNG",
+      "power": 2.5
+    },
+    "carBody": {
+      "colour": "RED",
+      "bodyType": "SEDAN",
+      "components": [
+        "AUDIO"
+      ]
+    },
+    "wheel": {
+      "brand": "DUNLOP",
+      "size": 19,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "BMW",
+    "price": 398575,
+    "mileage": 192180,
+    "engine": {
+      "type": "CNG",
+      "power": 2.1
+    },
+    "carBody": {
+      "colour": "GREEN",
+      "bodyType": "COMBI",
+      "components": [
+        "ELECTRIC_WINDOWS",
+        "BACK_DOORS",
+        "FOG_LIGHTS",
+        "GPS"
+      ]
+    },
+    "wheel": {
+      "brand": "DUNLOP",
+      "size": 15,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "NISSAN",
+    "price": 56079,
+    "mileage": 80742,
+    "engine": {
+      "type": "LPG",
+      "power": 5.8
+    },
+    "carBody": {
+      "colour": "YELLOW_BLACK",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "ELECTRIC_MIRRORS",
+        "BACK_DOORS",
+        "LEATHER"
+      ]
+    },
+    "wheel": {
+      "brand": "DUNLOP",
+      "size": 19,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "LAMBORGHINI",
+    "price": 232746,
+    "mileage": 147093,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 1.8
+    },
+    "carBody": {
+      "colour": "WHITE",
+      "bodyType": "SEDAN",
+      "components": [
+        "ELECTRIC_MIRRORS",
+        "GPS"
+      ]
+    },
+    "wheel": {
+      "brand": "BRIDGESTONE",
+      "size": 18,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "Seat",
+    "price": 268188,
+    "mileage": 139022,
+    "engine": {
+      "type": "CNG",
+      "power": 5.7
+    },
+    "carBody": {
+      "colour": "RED",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "AUDIO"
+      ]
+    },
+    "wheel": {
+      "brand": "APOLLO",
+      "size": 18,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "Seat",
+    "price": 131861,
+    "mileage": 18687,
+    "engine": {
+      "type": "LPG",
+      "power": 5.1
+    },
+    "carBody": {
+      "colour": "RED",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "LEATHER",
+        "ALARM",
+        "BACK_DOORS",
+        "ELECTRIC_MIRRORS"
+      ]
+    },
+    "wheel": {
+      "brand": "PIRELLI",
+      "size": 18,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "BMW",
+    "price": 553405,
+    "mileage": 9438,
+    "engine": {
+      "type": "LPG",
+      "power": 2.5
+    },
+    "carBody": {
+      "colour": "YELLOW_BLACK",
+      "bodyType": "COMBI",
+      "components": [
+        "ELECTRIC_MIRRORS",
+        "LEATHER"
+      ]
+    },
+    "wheel": {
+      "brand": "CONTINENTAL",
+      "size": 16,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "SKODA",
+    "price": 569004,
+    "mileage": 29823,
+    "engine": {
+      "type": "DIESEL",
+      "power": 2.1
+    },
+    "carBody": {
+      "colour": "GOLD",
+      "bodyType": "SEDAN",
+      "components": [
+        "AUDIO"
+      ]
+    },
+    "wheel": {
+      "brand": "DUNLOP",
+      "size": 14,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "NISSAN",
+    "price": 274724,
+    "mileage": 58592,
+    "engine": {
+      "type": "LPG",
+      "power": 5.2
+    },
+    "carBody": {
+      "colour": "SILVER",
+      "bodyType": "SEDAN",
+      "components": []
+    },
+    "wheel": {
+      "brand": "YOKOHAMA",
+      "size": 17,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "SKODA",
+    "price": 626588,
+    "mileage": 8815,
+    "engine": {
+      "type": "LPG",
+      "power": 2.3
+    },
+    "carBody": {
+      "colour": "RED",
+      "bodyType": "SEDAN",
+      "components": [
+        "FOG_LIGHTS",
+        "AIR_CONDITIONING",
+        "LEATHER"
+      ]
+    },
+    "wheel": {
+      "brand": "DUNLOP",
+      "size": 15,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "Polonez",
+    "price": 642922,
+    "mileage": 132744,
+    "engine": {
+      "type": "LPG",
+      "power": 5.4
+    },
+    "carBody": {
+      "colour": "WHITE",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "ELECTRIC_WINDOWS",
+        "FOG_LIGHTS",
+        "ALARM",
+        "BACK_DOORS"
+      ]
+    },
+    "wheel": {
+      "brand": "CONTINENTAL",
+      "size": 15,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "LAMBORGHINI",
+    "price": 141684,
+    "mileage": 98830,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 2.7
+    },
+    "carBody": {
+      "colour": "SILVER",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "GPS",
+        "ALARM",
+        "AUDIO",
+        "GPS"
+      ]
+    },
+    "wheel": {
+      "brand": "DUNLOP",
+      "size": 17,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "Fiat",
+    "price": 658423,
+    "mileage": 171640,
+    "engine": {
+      "type": "CNG",
+      "power": 2.4
+    },
+    "carBody": {
+      "colour": "GOLD",
+      "bodyType": "COMBI",
+      "components": [
+        "BACK_DOORS",
+        "AUDIO",
+        "FOG_LIGHTS",
+        "ELECTRIC_WINDOWS",
+        "ELECTRIC_WINDOWS",
+        "BACK_DOORS"
+      ]
+    },
+    "wheel": {
+      "brand": "DUNLOP",
+      "size": 15,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "CHEVROLET",
+    "price": 370328,
+    "mileage": 170000,
+    "engine": {
+      "type": "DIESEL",
+      "power": 2.9
+    },
+    "carBody": {
+      "colour": "WHITE",
+      "bodyType": "COMBI",
+      "components": [
+        "FOG_LIGHTS",
+        "FOG_LIGHTS"
+      ]
+    },
+    "wheel": {
+      "brand": "APOLLO",
+      "size": 15,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "BMW",
+    "price": 270356,
+    "mileage": 7173,
+    "engine": {
+      "type": "DIESEL",
+      "power": 3.4
+    },
+    "carBody": {
+      "colour": "GREEN",
+      "bodyType": "COMBI",
+      "components": [
+        "AUDIO"
+      ]
+    },
+    "wheel": {
+      "brand": "DUNLOP",
+      "size": 20,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "BMW",
+    "price": 434761,
+    "mileage": 146692,
+    "engine": {
+      "type": "LPG",
+      "power": 3.3
+    },
+    "carBody": {
+      "colour": "SILVER",
+      "bodyType": "SEDAN",
+      "components": [
+        "FOG_LIGHTS"
+      ]
+    },
+    "wheel": {
+      "brand": "APOLLO",
+      "size": 20,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "SKODA",
+    "price": 54091,
+    "mileage": 58819,
+    "engine": {
+      "type": "CNG",
+      "power": 3.3
+    },
+    "carBody": {
+      "colour": "RED",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "ALARM",
+        "AUDIO",
+        "ELECTRIC_WINDOWS"
+      ]
+    },
+    "wheel": {
+      "brand": "APOLLO",
+      "size": 16,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "BENTLEY",
+    "price": 159980,
+    "mileage": 24327,
+    "engine": {
+      "type": "LPG",
+      "power": 3.0
+    },
+    "carBody": {
+      "colour": "WHITE",
+      "bodyType": "SEDAN",
+      "components": [
+        "AIR_CONDITIONING",
+        "GPS"
+      ]
+    },
+    "wheel": {
+      "brand": "PIRELLI",
+      "size": 19,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "MERCEDES",
+    "price": 684225,
+    "mileage": 55733,
+    "engine": {
+      "type": "LPG",
+      "power": 1.7
+    },
+    "carBody": {
+      "colour": "WHITE_GREEN",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "ELECTRIC_MIRRORS",
+        "BACK_DOORS"
+      ]
+    },
+    "wheel": {
+      "brand": "YOKOHAMA",
+      "size": 14,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "BENTLEY",
+    "price": 275277,
+    "mileage": 69029,
+    "engine": {
+      "type": "LPG",
+      "power": 3.9
+    },
+    "carBody": {
+      "colour": "GREEN",
+      "bodyType": "COMBI",
+      "components": [
+        "BACK_DOORS",
+        "BACK_DOORS",
+        "LEATHER"
+      ]
+    },
+    "wheel": {
+      "brand": "CONTINENTAL",
+      "size": 15,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "BMW",
+    "price": 663666,
+    "mileage": 129275,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 5.1
+    },
+    "carBody": {
+      "colour": "RED",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "ELECTRIC_WINDOWS"
+      ]
+    },
+    "wheel": {
+      "brand": "CONTINENTAL",
+      "size": 14,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "Polonez",
+    "price": 555610,
+    "mileage": 29142,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 3.4
+    },
+    "carBody": {
+      "colour": "WHITE_GREEN",
+      "bodyType": "COMBI",
+      "components": [
+        "AIR_CONDITIONING",
+        "LEATHER"
+      ]
+    },
+    "wheel": {
+      "brand": "DEBICA",
+      "size": 17,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "Fiat",
+    "price": 263001,
+    "mileage": 49036,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 2.0
+    },
+    "carBody": {
+      "colour": "YELLOW_BLACK",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "AIR_CONDITIONING"
+      ]
+    },
+    "wheel": {
+      "brand": "CONTINENTAL",
+      "size": 15,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "NISSAN",
+    "price": 259730,
+    "mileage": 166588,
+    "engine": {
+      "type": "DIESEL",
+      "power": 3.1
+    },
+    "carBody": {
+      "colour": "WHITE",
+      "bodyType": "COMBI",
+      "components": [
+        "AIR_CONDITIONING",
+        "ALARM",
+        "BACK_DOORS"
+      ]
+    },
+    "wheel": {
+      "brand": "BRIDGESTONE",
+      "size": 17,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "Fiat",
+    "price": 440848,
+    "mileage": 144856,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 1.8
+    },
+    "carBody": {
+      "colour": "SILVER",
+      "bodyType": "SEDAN",
+      "components": [
+        "AIR_CONDITIONING"
+      ]
+    },
+    "wheel": {
+      "brand": "APOLLO",
+      "size": 18,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "SKODA",
+    "price": 202360,
+    "mileage": 48377,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 2.5
+    },
+    "carBody": {
+      "colour": "YELLOW_BLACK",
+      "bodyType": "SEDAN",
+      "components": []
+    },
+    "wheel": {
+      "brand": "CONTINENTAL",
+      "size": 20,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "CHEVROLET",
+    "price": 465597,
+    "mileage": 193541,
+    "engine": {
+      "type": "DIESEL",
+      "power": 5.3
+    },
+    "carBody": {
+      "colour": "RED",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "GPS",
+        "AUDIO"
+      ]
+    },
+    "wheel": {
+      "brand": "DEBICA",
+      "size": 19,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "price": 108683,
+    "mileage": 173079,
+    "engine": {
+      "type": "CNG",
+      "power": 4.7
+    },
+    "carBody": {
+      "colour": "WHITE_GREEN",
+      "bodyType": "COMBI",
+      "components": [
+        "ALARM",
+        "GPS",
+        "ELECTRIC_MIRRORS",
+        "BACK_DOORS"
+      ]
+    },
+    "wheel": {
+      "brand": "YOKOHAMA",
+      "size": 19,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "NISSAN",
+    "price": 595645,
+    "mileage": 142931,
+    "engine": {
+      "type": "DIESEL",
+      "power": 4.4
+    },
+    "carBody": {
+      "colour": "GOLD",
+      "bodyType": "COMBI",
+      "components": [
+        "BACK_DOORS",
+        "AIR_CONDITIONING"
+      ]
+    },
+    "wheel": {
+      "brand": "APOLLO",
+      "size": 16,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "AUDI",
+    "price": 520785,
+    "mileage": 144295,
+    "engine": {
+      "type": "DIESEL",
+      "power": 2.7
+    },
+    "carBody": {
+      "colour": "BLACK",
+      "bodyType": "SEDAN",
+      "components": [
+        "ELECTRIC_MIRRORS"
+      ]
+    },
+    "wheel": {
+      "brand": "YOKOHAMA",
+      "size": 18,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "BENTLEY",
+    "price": 314497,
+    "mileage": 77965,
+    "engine": {
+      "type": "CNG",
+      "power": 3.5
+    },
+    "carBody": {
+      "colour": "GREEN",
+      "bodyType": "SEDAN",
+      "components": [
+        "ALARM",
+        "AIR_CONDITIONING"
+      ]
+    },
+    "wheel": {
+      "brand": "APOLLO",
+      "size": 18,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "NISSAN",
+    "price": 641669,
+    "mileage": 48474,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 3.5
+    },
+    "carBody": {
+      "colour": "BLUE",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "AIR_CONDITIONING",
+        "AIR_CONDITIONING"
+      ]
+    },
+    "wheel": {
+      "brand": "YOKOHAMA",
+      "size": 18,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "Polonez",
+    "price": 242758,
+    "mileage": 71545,
+    "engine": {
+      "type": "CNG",
+      "power": 4.9
+    },
+    "carBody": {
+      "colour": "YELLOW_BLACK",
+      "bodyType": "COMBI",
+      "components": []
+    },
+    "wheel": {
+      "brand": "YOKOHAMA",
+      "size": 16,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "NISSAN",
+    "price": 251024,
+    "mileage": 102321,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 3.7
+    },
+    "carBody": {
+      "colour": "BLUE",
+      "bodyType": "SEDAN",
+      "components": [
+        "GPS"
+      ]
+    },
+    "wheel": {
+      "brand": "PIRELLI",
+      "size": 20,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "Polonez",
+    "price": 309813,
+    "mileage": 95179,
+    "engine": {
+      "type": "DIESEL",
+      "power": 3.5
+    },
+    "carBody": {
+      "colour": "RED",
+      "bodyType": "COMBI",
+      "components": [
+        "ALARM",
+        "FOG_LIGHTS"
+      ]
+    },
+    "wheel": {
+      "brand": "YOKOHAMA",
+      "size": 18,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "price": 552060,
+    "mileage": 131254,
+    "engine": {
+      "type": "CNG",
+      "power": 4.5
+    },
+    "carBody": {
+      "colour": "YELLOW_BLACK",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "BACK_DOORS",
+        "AIR_CONDITIONING",
+        "ALARM"
+      ]
+    },
+    "wheel": {
+      "brand": "DEBICA",
+      "size": 14,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "MERCEDES",
+    "price": 668754,
+    "mileage": 105461,
+    "engine": {
+      "type": "DIESEL",
+      "power": 5.9
+    },
+    "carBody": {
+      "colour": "WHITE",
+      "bodyType": "COMBI",
+      "components": [
+        "ELECTRIC_MIRRORS",
+        "AIR_CONDITIONING"
+      ]
+    },
+    "wheel": {
+      "brand": "YOKOHAMA",
+      "size": 19,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "Polonez",
+    "price": 534759,
+    "mileage": 184587,
+    "engine": {
+      "type": "LPG",
+      "power": 4.6
+    },
+    "carBody": {
+      "colour": "GOLD",
+      "bodyType": "SEDAN",
+      "components": [
+        "AIR_CONDITIONING",
+        "ELECTRIC_MIRRORS"
+      ]
+    },
+    "wheel": {
+      "brand": "DEBICA",
+      "size": 20,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "TOYOTA",
+    "price": 414857,
+    "mileage": 52221,
+    "engine": {
+      "type": "DIESEL",
+      "power": 3.5
+    },
+    "carBody": {
+      "colour": "YELLOW_BLACK",
+      "bodyType": "SEDAN",
+      "components": [
+        "AIR_CONDITIONING",
+        "ELECTRIC_MIRRORS",
+        "LEATHER"
+      ]
+    },
+    "wheel": {
+      "brand": "CONTINENTAL",
+      "size": 16,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "Fiat",
+    "price": 218263,
+    "mileage": 198546,
+    "engine": {
+      "type": "DIESEL",
+      "power": 2.1
+    },
+    "carBody": {
+      "colour": "BLUE",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "FOG_LIGHTS",
+        "AIR_CONDITIONING",
+        "ELECTRIC_MIRRORS",
+        "ELECTRIC_WINDOWS",
+        "ELECTRIC_WINDOWS"
+      ]
+    },
+    "wheel": {
+      "brand": "YOKOHAMA",
+      "size": 19,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "Polonez",
+    "price": 442656,
+    "mileage": 95798,
+    "engine": {
+      "type": "LPG",
+      "power": 5.7
+    },
+    "carBody": {
+      "colour": "PURPLE",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "GPS",
+        "ALARM",
+        "BACK_DOORS",
+        "FOG_LIGHTS",
+        "GPS",
+        "ALARM"
+      ]
+    },
+    "wheel": {
+      "brand": "DUNLOP",
+      "size": 18,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "NISSAN",
+    "price": 107948,
+    "mileage": 76197,
+    "engine": {
+      "type": "LPG",
+      "power": 5.9
+    },
+    "carBody": {
+      "colour": "YELLOW_BLACK",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "ALARM",
+        "ELECTRIC_MIRRORS",
+        "GPS"
+      ]
+    },
+    "wheel": {
+      "brand": "DEBICA",
+      "size": 16,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "SKODA",
+    "price": 151499,
+    "mileage": 85682,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 2.9
+    },
+    "carBody": {
+      "colour": "GREEN",
+      "bodyType": "HATCHBACK",
+      "components": []
+    },
+    "wheel": {
+      "brand": "YOKOHAMA",
+      "size": 16,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "price": 521197,
+    "mileage": 26122,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 5.7
+    },
+    "carBody": {
+      "colour": "PURPLE",
+      "bodyType": "COMBI",
+      "components": [
+        "AUDIO",
+        "AUDIO"
+      ]
+    },
+    "wheel": {
+      "brand": "CONTINENTAL",
+      "size": 20,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "LAMBORGHINI",
+    "price": 559063,
+    "mileage": 143077,
+    "engine": {
+      "type": "CNG",
+      "power": 1.5
+    },
+    "carBody": {
+      "colour": "YELLOW_BLACK",
+      "bodyType": "SEDAN",
+      "components": [
+        "AIR_CONDITIONING"
+      ]
+    },
+    "wheel": {
+      "brand": "APOLLO",
+      "size": 17,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "LAMBORGHINI",
+    "price": 18685,
+    "mileage": 167672,
+    "engine": {
+      "type": "CNG",
+      "power": 3.3
+    },
+    "carBody": {
+      "colour": "GREEN",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "GPS",
+        "BACK_DOORS",
+        "GPS",
+        "AUDIO",
+        "LEATHER"
+      ]
+    },
+    "wheel": {
+      "brand": "BRIDGESTONE",
+      "size": 16,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "Seat",
+    "price": 488787,
+    "mileage": 26115,
+    "engine": {
+      "type": "LPG",
+      "power": 5.9
+    },
+    "carBody": {
+      "colour": "BLACK",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "AUDIO",
+        "ELECTRIC_MIRRORS"
+      ]
+    },
+    "wheel": {
+      "brand": "DEBICA",
+      "size": 17,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "LAMBORGHINI",
+    "price": 307022,
+    "mileage": 174235,
+    "engine": {
+      "type": "LPG",
+      "power": 4.3
+    },
+    "carBody": {
+      "colour": "SILVER",
+      "bodyType": "COMBI",
+      "components": [
+        "GPS",
+        "ELECTRIC_WINDOWS"
+      ]
+    },
+    "wheel": {
+      "brand": "YOKOHAMA",
+      "size": 20,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "MERCEDES",
+    "price": 523778,
+    "mileage": 85193,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 5.0
+    },
+    "carBody": {
+      "colour": "YELLOW_BLACK",
+      "bodyType": "SEDAN",
+      "components": [
+        "AUDIO",
+        "ELECTRIC_WINDOWS",
+        "BACK_DOORS"
+      ]
+    },
+    "wheel": {
+      "brand": "YOKOHAMA",
+      "size": 20,
+      "type": "SUMMER"
+    }
+  },
+  {
+    "brand": "BENTLEY",
+    "price": 11666,
+    "mileage": 108123,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 5.1
+    },
+    "carBody": {
+      "colour": "RED",
+      "bodyType": "COMBI",
+      "components": [
+        "ALARM",
+        "BACK_DOORS"
+      ]
+    },
+    "wheel": {
+      "brand": "CONTINENTAL",
+      "size": 19,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "CHEVROLET",
+    "price": 121056,
+    "mileage": 36539,
+    "engine": {
+      "type": "LPG",
+      "power": 3.0
+    },
+    "carBody": {
+      "colour": "PURPLE",
+      "bodyType": "COMBI",
+      "components": [
+        "LEATHER",
+        "ALARM"
+      ]
+    },
+    "wheel": {
+      "brand": "PIRELLI",
+      "size": 19,
+      "type": "WINTER"
+    }
+  },
+  {
+    "brand": "MERCEDES",
+    "price": 611612,
+    "mileage": 115192,
+    "engine": {
+      "type": "LPG",
+      "power": 5.7
+    },
+    "carBody": {
+      "colour": "WHITE",
+      "bodyType": "SEDAN",
+      "components": [
+        "LEATHER",
+        "ELECTRIC_MIRRORS",
+        "LEATHER",
+        "AUDIO"
+      ]
+    },
+    "wheel": {
+      "brand": "PIRELLI",
+      "size": 15,
+      "type": "SUMMER"
+    }
+  }
+]

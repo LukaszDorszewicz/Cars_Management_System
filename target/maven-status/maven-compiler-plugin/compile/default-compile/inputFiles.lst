@@ -1,0 +1,17 @@
+C:\KMPROGRAMS\CARS_MANAGEMENT_SYSTEM\src\main\java\com\app\App.java
+C:\KMPROGRAMS\CARS_MANAGEMENT_SYSTEM\src\main\java\com\app\converter\JsonConverter.java
+C:\KMPROGRAMS\CARS_MANAGEMENT_SYSTEM\src\main\java\com\app\model\enums\CarComponent.java
+C:\KMPROGRAMS\CARS_MANAGEMENT_SYSTEM\src\main\java\com\app\converter\CarJsonConverter.java
+C:\KMPROGRAMS\CARS_MANAGEMENT_SYSTEM\src\main\java\com\app\model\CarBody.java
+C:\KMPROGRAMS\CARS_MANAGEMENT_SYSTEM\src\main\java\com\app\model\Wheel.java
+C:\KMPROGRAMS\CARS_MANAGEMENT_SYSTEM\src\main\java\com\app\model\Engine.java
+C:\KMPROGRAMS\CARS_MANAGEMENT_SYSTEM\src\main\java\com\app\model\enums\CarBrand.java
+C:\KMPROGRAMS\CARS_MANAGEMENT_SYSTEM\src\main\java\com\app\model\enums\CarBodyType.java
+C:\KMPROGRAMS\CARS_MANAGEMENT_SYSTEM\src\main\java\com\app\model\enums\CarTyreBrand.java
+C:\KMPROGRAMS\CARS_MANAGEMENT_SYSTEM\src\main\java\com\app\model\enums\CarColor.java
+C:\KMPROGRAMS\CARS_MANAGEMENT_SYSTEM\src\main\java\com\app\service\UserDataService.java
+C:\KMPROGRAMS\CARS_MANAGEMENT_SYSTEM\src\main\java\com\app\model\Car.java
+C:\KMPROGRAMS\CARS_MANAGEMENT_SYSTEM\src\main\java\com\app\model\enums\EngineType.java
+C:\KMPROGRAMS\CARS_MANAGEMENT_SYSTEM\src\main\java\com\app\service\DataGeneratorService.java
+C:\KMPROGRAMS\CARS_MANAGEMENT_SYSTEM\src\main\java\com\app\model\enums\TireType.java
+C:\KMPROGRAMS\CARS_MANAGEMENT_SYSTEM\src\main\java\com\app\exception\CarsManagementSystemException.java
