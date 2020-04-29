@@ -2,15 +2,14 @@ package com.app.service;
 
 import com.app.exception.CarsManagementSystemException;
 import com.app.model.Car;
-import com.app.model.enums.CarBrand;
-import com.app.model.enums.CarColour;
-import com.app.model.enums.CarComponent;
+import com.app.model.enums.*;
 import lombok.Data;
 import org.eclipse.collections.impl.collector.BigDecimalSummaryStatistics;
 import org.eclipse.collections.impl.collector.Collectors2;
 
 import java.math.BigDecimal;
 import java.util.*;
+import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -163,5 +162,41 @@ public class StatisticsService {
                         .sorted(Comparator.comparing(Object::toString))
                         .collect(Collectors.toList())))
                 .collect(Collectors.toList());
+    }
+
+    public Map<Integer, Car> getCarsWithTheirMileages() {
+        return carService.getCars()
+                .stream()
+                .collect(Collectors.toMap(
+                        Car::getMileage,
+                        Function.identity()
+                ))
+                .entrySet()
+                .stream()
+                .sorted(Map.Entry.comparingByKey())
+                .collect(Collectors.toMap(
+                        Map.Entry::getKey,
+                        Map.Entry::getValue,
+                        (v1, v2) -> v1,
+                        LinkedHashMap::new
+                ));
+    }
+
+    public Map<TireType, List<Car>> getCarsWithSpecifiedTireTypes() {
+        return carService.getCars()
+                .stream()
+                .collect(Collectors.groupingBy(c -> c.getWheel().getType()));
+    }
+
+    public Map<CarBodyType, List<Car>> getCarsWithSpecifiedBodyTypes() {
+        return carService.getCars()
+                .stream()
+                .collect(Collectors.groupingBy(c -> c.getCarBody().getBodyType()));
+    }
+
+    public Map<EngineType, List<Car>> getCarsWithSpecifiedEngineTypes() {
+        return carService.getCars()
+                .stream()
+                .collect(Collectors.groupingBy(c -> c.getEngine().getType()));
     }
 }

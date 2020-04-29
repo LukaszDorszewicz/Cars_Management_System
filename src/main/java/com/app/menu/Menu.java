@@ -89,7 +89,23 @@ public class Menu {
                         break;
                     case 13:
                         System.out.println(statisticsService.getCarsWithSortedComponents());
+                        break;
                     case 14:
+                        statisticsService.getCarsWithTheirMileages()
+                                .forEach((k, v) -> System.out.println("MILEAGE: " + k + "\n" + v));
+                        break;
+                    case 15:
+                        statisticsService.getCarsWithSpecifiedTireTypes()
+                                .forEach((k,v) -> System.out.println(k + " " + v));
+                        break;
+                    case 16:
+                        statisticsService.getCarsWithSpecifiedBodyTypes()
+                                .forEach((k,v) -> System.out.println(k + " " + v));
+                        break;
+                    case 17:
+                        statisticsService.getCarsWithSpecifiedEngineTypes()
+                                .forEach((k,v) -> System.out.println(k + " " + v));
+                    case 18:
                         System.out.println("THANKS FOR USING!!!!!!");
                         return;
                 }
@@ -119,6 +135,11 @@ public class Menu {
                 "\nGET MILEAGE STATISTICS - 11" +
                 "\nGET MOST EXPENSIVE CAR - 12" +
                 "\nGET CARS WITH COMPONENTS SORTED ALPHABETICALLY - 13" +
+                "\nGET CARS WITH THEIR MILEAGES - 14" +
+                "\nGET CARS AFTER TIRE TYPES - 15" +
+                "\nGET CARS AFTER BODY TYPES - 16" +
+                "\nGET CARS AFTER ENGINE TYPES - 17" +
+                "\nEND - 18" +
                 "\nPUT OPTION:");
     }
 
