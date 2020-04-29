@@ -6,6 +6,8 @@ import com.app.model.enums.CarBrand;
 import com.app.model.enums.CarColour;
 import com.app.model.enums.CarComponent;
 import lombok.Data;
+import org.eclipse.collections.impl.collector.BigDecimalSummaryStatistics;
+import org.eclipse.collections.impl.collector.Collectors2;
 
 import java.math.BigDecimal;
 import java.util.*;
@@ -51,17 +53,17 @@ public class StatisticsService {
             case 2:
                 carStream = carService.getCars()
                         .stream()
-                        .sorted(Comparator.comparing(Car::getBrand));
+                        .sorted(Comparator.comparing(c -> c.getBrand().toString()));
                 break;
             case 3:
                 carStream = carService.getCars()
                         .stream()
-                        .sorted(Comparator.comparing(c -> c.getCarBody().getColour()));
+                        .sorted(Comparator.comparing(c -> c.getCarBody().getColour().toString()));
                 break;
             case 4:
                 carStream = carService.getCars()
                         .stream()
-                        .sorted(Comparator.comparing(c -> c.getCarBody().getBodyType()));
+                        .sorted(Comparator.comparing(c -> c.getCarBody().getBodyType().toString()));
                 break;
         }
 
@@ -97,7 +99,8 @@ public class StatisticsService {
                 .collect(Collectors.toMap(
                         Map.Entry::getKey,
                         v -> v.getValue().stream().max(comparing(Car::getPrice))
-                                .orElseThrow(() -> new CarsManagementSystemException("CANNOT FIND MOST EXPENSIVE CARS")))
+                                .orElseThrow(() ->
+                                        new CarsManagementSystemException("CANNOT FIND MOST EXPENSIVE CARS")))
                 );
     }
 
@@ -115,7 +118,7 @@ public class StatisticsService {
                 .collect(Collectors.toList());
     }
 
-    public List<Car> getCarsWithComponent(CarComponent component){
+    public List<Car> getCarsWithComponent(CarComponent component) {
         return carService.getCars()
                 .stream()
                 .filter(c -> c.getCarBody().getComponents().contains(component))
@@ -123,11 +126,42 @@ public class StatisticsService {
                 .collect(Collectors.toList());
     }
 
-    public List<Car> getCarsWithComponents(Set<CarComponent> components){
+    public List<Car> getCarsWithComponents(Set<CarComponent> components) {
         return carService.getCars()
                 .stream()
                 .filter(c -> c.getCarBody().getComponents().containsAll(components))
                 .sorted(Comparator.comparing(Car::getBrand))
+                .collect(Collectors.toList());
+    }
+
+    public BigDecimalSummaryStatistics getPriceStatistics() {
+        return carService.getCars()
+                .stream()
+                .collect(Collectors2.summarizingBigDecimal(Car::getPrice));
+    }
+
+    public IntSummaryStatistics getMileageStatistics() {
+        return carService.getCars()
+                .stream()
+                .collect(Collectors.summarizingInt(Car::getMileage));
+    }
+
+    public Car getMostExpensiveCar() {
+        return carService.getCars()
+                .stream()
+                .sorted(Comparator.comparing(Car::getPrice).reversed())
+                .limit(1)
+                .findAny()
+                .orElseThrow(() -> new CarsManagementSystemException("NO CARS AVAILABLE"));
+    }
+
+    public List<Car> getCarsWithSortedComponents() {
+        return carService.getCars()
+                .stream()
+                .peek(c -> c.getCarBody().setComponents(c.getCarBody().getComponents()
+                        .stream()
+                        .sorted(Comparator.comparing(Object::toString))
+                        .collect(Collectors.toList())))
                 .collect(Collectors.toList());
     }
 }

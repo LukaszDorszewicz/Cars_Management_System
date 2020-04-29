@@ -6,6 +6,7 @@ import com.app.service.StatisticsService;
 import com.app.service.UserDataService;
 
 import javax.swing.*;
+import java.math.RoundingMode;
 import java.util.InputMismatchException;
 import java.util.List;
 
@@ -70,6 +71,25 @@ public class Menu {
                         System.out.println(statisticsService.getCarsWithComponents(components));
                         break;
                     case 10:
+                        var priceStatistics = statisticsService.getPriceStatistics();
+
+                        System.out.println("MAX PRICE: " + priceStatistics.getMax()
+                                + "\nMIN PRICE: " + priceStatistics.getMin()
+                                + "\nAVG PRICE: " + priceStatistics.getAverage().setScale(2, RoundingMode.HALF_EVEN));
+                        break;
+                    case 11:
+                        var mileageStatistics = statisticsService.getMileageStatistics();
+
+                        System.out.println("MAX PRICE: " + mileageStatistics.getMax()
+                                + "\nMIN PRICE: " + mileageStatistics.getMin()
+                                + "\nAVG PRICE: " + mileageStatistics.getAverage());
+                        break;
+                    case 12:
+                        System.out.println(statisticsService.getMostExpensiveCar());
+                        break;
+                    case 13:
+                        System.out.println(statisticsService.getCarsWithSortedComponents());
+                    case 14:
                         System.out.println("THANKS FOR USING!!!!!!");
                         return;
                 }
@@ -93,8 +113,12 @@ public class Menu {
                 "\nCOUNT CARS AFTER COLOURS - 5" +
                 "\nGET MOST EXPENSIVE CARS FROM BRANDS - 6" +
                 "\nGET CARS AFTER PRICE RANGE - 7" +
-                "\nGET CARS WITH COMPONENT - 8" +
-                "\nGET CARS WITH COMPONENTS - 9" +
+                "\nGET CARS WITH GIVEN COMPONENT - 8" +
+                "\nGET CARS WITH GIVEN COMPONENTS - 9" +
+                "\nGET PRICE STATISTICS - 10" +
+                "\nGET MILEAGE STATISTICS - 11" +
+                "\nGET MOST EXPENSIVE CAR - 12" +
+                "\nGET CARS WITH COMPONENTS SORTED ALPHABETICALLY - 13" +
                 "\nPUT OPTION:");
     }
 
